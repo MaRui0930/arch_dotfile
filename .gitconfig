@@ -1,0 +1,18 @@
+[user]
+	name = MaRui0930
+	email = 1024102025@qq.com
+[alias]
+    co = checkout
+    ci = commit
+    br = branch
+    st = status
+    lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
+[color]
+	status = auto
+	branch = auto
+	interactive = auto
+	diff = auto
+[http]
+	proxy = http://127.0.0.1:7890
+[core]
+	quotepath = false
